@@ -1,6 +1,6 @@
 # CONTADOR DE CLICS REACTAPP - FREECODECAMP
 
-Contador de clics básico con React implentando useStaste.
+# Contador de clics básico con React implentando useStaste.
 
 ## Available Scripts
 
