@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# CONTADOR DE CLICS REACTAPP - FREECODECAMP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Contador de clics básico hecho implentando useStaste.
 
 ## Available Scripts
 
